@@ -1,11 +1,11 @@
-# ❄️ Frosten IDE
+# ❄️ Frosten IDE ( Community Version )
 
 > An open-source AI Agentic IDE — connect any OpenAI-compatible AI provider, open any folder as a workspace, and run autonomous agent missions.
 
 ![Frosten IDE Banner](./assets/banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/indianicsoft/frosten-ide/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/indianicsoft/frosten-ide/releases)
 [![Stars](https://img.shields.io/github/stars/indianicsoft/frosten-ide?style=social)](https://github.com/indianicsoft/frosten-ide)
 [![Issues](https://img.shields.io/github/issues/indianicsoft/frosten-ide)](https://github.com/indianicsoft/frosten-ide/issues)
 
