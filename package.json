@@ -1,0 +1,36 @@
+{
+  "name": "frosten-ide",
+  "version": "1.0.0",
+  "description": "A full AI Agentic IDE",
+  "main": "electron/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node electron/dev-runner.js",
+    "start": "node electron/dev-runner.js",
+    "build": "node node_modules/vite/bin/vite.js build",
+    "rebuild": "node node_modules/@electron/rebuild/lib/cli.js -f -w node-pty,better-sqlite3",
+    "postinstall": "node node_modules/@electron/rebuild/lib/cli.js -f -w node-pty,better-sqlite3"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.6.0",
+    "better-sqlite3": "^11.0.0",
+    "lucide-react": "^0.395.0",
+    "node-pty": "^1.1.0-beta21",
+    "openai": "^4.52.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "xterm": "^5.3.0",
+    "xterm-addon-fit": "^0.8.0",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@electron/rebuild": "^3.6.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "electron": "^31.7.7",
+    "electron-builder": "^24.13.3",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.1"
+  }
+}
