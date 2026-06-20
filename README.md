@@ -67,7 +67,7 @@ Packaged output will be in `dist/`.
 
 ## 🗂️ Project Structure
 
-frosten-ide/
+```frosten-ide/
 ├── electron/ # Main process, preload, agent runner
 ├── src/
 │ ├── views/ # EditorView, ManagerView
@@ -76,6 +76,7 @@ frosten-ide/
 │ └── lib/ # AI client, agent planner/executor, artifact builder
 ├── assets/ # Icons, banner, screenshots
 └── package.json
+```
 
 
 ---
