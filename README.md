@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🗂️ **Open Any Folder** as a workspace with full recursive file tree
 - ✏️ **Monaco Editor** (VS Code-quality) with syntax highlighting for all languages
