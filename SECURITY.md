@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in Frosten IDE, please **do not** open a public issue.
 
-Email: hello@rohiththirunahari.online (or your contact)
+Email: hello@rohiththirunahari.online 
 
 We will respond within 72 hours. Please include:
 - Description of the vulnerability
